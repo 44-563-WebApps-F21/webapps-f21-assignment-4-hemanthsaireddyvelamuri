@@ -47,8 +47,8 @@ tr:nth-child(odd) {background-color: #d1d1d1;}
     padding: 20px;
 }
 
-.nameHover:hover{
-    text-shadow: 5px 5px blueviolet;
+.name_Hover:hover{
+    text-shadow: 10px 10px blueviolet;
     border-style:ridge;
     border-color: black;
 }
