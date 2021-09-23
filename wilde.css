@@ -51,4 +51,5 @@ tr:nth-child(odd) {background-color: #d1d1d1;}
     text-shadow: 10px 10px blueviolet;
     border-style:ridge;
     border-color: black;
+    filter : blur(0.8px);
 }
